@@ -1,4 +1,4 @@
-## <p align="center"><i>🚀 RocketMovie ReactJs Interface</i></p>
+## <p align="center"><i>🚀 RocketMovie 🎬</i></p>
 
 <h2 id="project">📁 Project</h2>
 
@@ -22,29 +22,18 @@ This project was developed using the following technologies/libraries/tools:
 - ✔️ React Router Dom;
 - ✔️ Axios;
 
-- ✔️ Javascript;
 - ✔️ Node.js;
 - ✔️ Express.js;
 - ✔️ SQLite;
 - ✔️ Knex.js;
 - ✔️ JSON Web Token (JWT);
 
-<h2 id="concepts">💡 Concepts</h2>
-
-Concepts used in project development:
-
-- ✔️ Frontend (React.js): JavaScript library for building interactive and dynamic user interfaces.
-- ✔️ Styled-components: Library for styling React components in an encapsulated and reusable manner.
-- ✔️ Axios: Promise-based HTTP client for making asynchronous requests between the frontend and backend.
-- ✔️ Backend (Node.js): JavaScript runtime platform for building scalable and efficient server-side applications.
-- ✔️ Express.js: Web framework for Node.js that simplifies the development of RESTful APIs.
-
 <h2 id="usage">🔦 Usage</h2>
 
 To get more details and usage instructions, access the README of each project.
 
-[Details and usage instructions - Backend](./backend/README.md)
-[Details and usage instructions - Frontend](./frontend/README.md)
+- [Details and usage instructions - Backend](./backend/README.md)
+- [Details and usage instructions - Frontend](./frontend/README.md)
 
 <h2 id="usage">🤲 Conclusion</h2>
 
