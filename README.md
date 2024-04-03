@@ -32,7 +32,7 @@ This project was developed using the following technologies/libraries/tools:
 
 To get more details and usage instructions, access the README of each project.
 
-- [Details and usage instructions - Backend](./backend/README.md)
+- [Details and usage instructions - Backend](./backend)
 - [Details and usage instructions - Frontend](./frontend/README.md)
 
 <h2 id="usage">🤲 Conclusion</h2>
