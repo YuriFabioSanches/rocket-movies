@@ -38,9 +38,9 @@ export function Header({ onSearch, disabled = false }) {
       <Profile>
         <div className="profile-text">
           <strong>{user.name}</strong>
-          <Link onClick={handleSignOut}>
+          <button onClick={handleSignOut}>
             <span>sign out</span>
-          </Link>
+          </button>
         </div>
         <Link to="/profile">
           <img src={avatarURL} alt={user.name} />

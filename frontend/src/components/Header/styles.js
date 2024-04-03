@@ -37,12 +37,17 @@ export const Profile = styled.div`
       color: ${({ theme }) => theme.COLORS.WHITE};
     }
 
-    span {
-      font-weight: 400;
-      font-size: 1.4rem;
-      line-height: 1.8rem;
+    button {
+      border: none;
+      background: none;
       
-      color: ${({ theme }) => theme.COLORS.GRAY_300};
+      span {
+        font-weight: 400;
+        font-size: 1.4rem;
+        line-height: 1.8rem;
+            
+        color: ${({ theme }) => theme.COLORS.GRAY_300};
+      }
     }
   }
 
