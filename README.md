@@ -1,8 +1,18 @@
-## <p align="center"><i>🚀 RocketMovie ReactJs Interface</i></p>
+## <p align="center"><i>🚀 RocketMovie 🎬</i></p>
 
 <h2 id="project">📁 Project</h2>
 
 This project is a web application designed for managing user-created movie notes. The application allows CRUD (Create, Read, Update, Delete) operations for both users and movie notes. Developed with the frontend in React.js and the backend in Node.js, the project offers a complete and integrated platform for users to record their cinematic experiences.
+
+<h2 id="project">📁 Screenshots</h2>
+
+![Sign in screen](https://github.com/YuriFabioSanches/rocket-movies/assets/58032581/f2cc143f-6653-4b54-8065-9a3886db23d8)
+![Create account screen](https://github.com/YuriFabioSanches/rocket-movies/assets/58032581/dd934177-02ce-4b01-893e-aa637cc65053)
+![Home screen](https://github.com/YuriFabioSanches/rocket-movies/assets/58032581/8fc7cac9-2910-4202-b9ad-976d8d47c2c6)
+![Profile screen](https://github.com/YuriFabioSanches/rocket-movies/assets/58032581/39d8025b-2916-4d20-bac4-d04812ee684b)
+![Create note screen](https://github.com/YuriFabioSanches/rocket-movies/assets/58032581/4600cdcd-d83f-479b-81e2-6b67505c84e0)
+![Note details screen](https://github.com/YuriFabioSanches/rocket-movies/assets/58032581/f3f09b49-f5ef-46c3-9db8-eca98ba1a167)
+![Edit note modal](https://github.com/YuriFabioSanches/rocket-movies/assets/58032581/65c8db0d-fc9a-4db6-95b8-91ff78b340e7)
 
 <h2 id="project">🗝️ Key Features</h2>
 
@@ -22,29 +32,18 @@ This project was developed using the following technologies/libraries/tools:
 - ✔️ React Router Dom;
 - ✔️ Axios;
 
-- ✔️ Javascript;
 - ✔️ Node.js;
 - ✔️ Express.js;
 - ✔️ SQLite;
 - ✔️ Knex.js;
 - ✔️ JSON Web Token (JWT);
 
-<h2 id="concepts">💡 Concepts</h2>
-
-Concepts used in project development:
-
-- ✔️ Frontend (React.js): JavaScript library for building interactive and dynamic user interfaces.
-- ✔️ Styled-components: Library for styling React components in an encapsulated and reusable manner.
-- ✔️ Axios: Promise-based HTTP client for making asynchronous requests between the frontend and backend.
-- ✔️ Backend (Node.js): JavaScript runtime platform for building scalable and efficient server-side applications.
-- ✔️ Express.js: Web framework for Node.js that simplifies the development of RESTful APIs.
-
 <h2 id="usage">🔦 Usage</h2>
 
 To get more details and usage instructions, access the README of each project.
 
-[Details and usage instructions - Backend](./backend/README.md)
-[Details and usage instructions - Frontend](./frontend/README.md)
+- [Details and usage instructions - Backend](./backend)
+- [Details and usage instructions - Frontend](./frontend)
 
 <h2 id="usage">🤲 Conclusion</h2>
 
